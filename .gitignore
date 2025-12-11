@@ -1,0 +1,15 @@
+# MATLAB backup and autosave
+*.asv
+*.m~
+*.autosave
+
+# Data files (if you don’t want to track them)
+*.mat
+*.csv
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Other temporary files
+*.log
